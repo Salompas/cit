@@ -1,0 +1,17 @@
+Package: rcit
+Title: Causal Inference Tools for R
+Version: 0.0.0.9000
+Authors@R:
+    person(given = "Guilherme",
+           family = "Salome",
+           role = c("aut", "cre"),
+           email = "guilhermesalome@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: CIT defines functions useful for causal inference.
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
